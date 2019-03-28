@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://caucaebie.ayab-knitting.com/sitemap.xml
